@@ -11,6 +11,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-blue?style=flat-square-endpoint&logo=webpack&labelColor=F3F3F3&logoColor=blue) 
 ![Node JS](https://img.shields.io/badge/Node_JS-EADEDE?style=flat-square-endpoint&logo=nodedotjs&logoColor=) 
 ![Figma](https://img.shields.io/badge/Figma-892CDC?style=flat-square-endpoint&logo=figma&logoColor=892CDC&labelColor=EADEDE)
+![React](https://img.shields.io/badge/React-892CDC?style=flat-square-endpoint&logo=react&logoColor=892CDC&labelColor=EADEDE)
 <h3 align="center">𝔼𝕟𝕘𝕝𝕚𝕤𝕙</h3>
 
 [![English level](https://img.shields.io/badge/English-A2-2D46B9?style=flat-square-endpoint&labelColor=EADEDE&logoColor=2D46B9)]()
