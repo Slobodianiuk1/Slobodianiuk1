@@ -18,4 +18,4 @@
 <h2>HTML/CSS/JavaScript projects 2022</h2>
 
 
-[![Oskolnet](https://img.shields.io/badge/OnlineZoo_2022-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/oskolnet/dist)
+[![Oskolnet](https://img.shields.io/badge/Oskolnet_2022-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/oskolnet/dist)
