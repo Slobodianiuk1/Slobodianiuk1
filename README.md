@@ -19,3 +19,5 @@
 
 
 [![Oskolnet](https://img.shields.io/badge/Oskolnet_2022-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/oskolnet/dist)
+
+[![Monticello](https://img.shields.io/badge/Monticello_2022-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/Monticello/)
