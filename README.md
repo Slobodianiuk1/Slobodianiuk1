@@ -14,10 +14,5 @@
 ![React](https://img.shields.io/badge/React-892CDC?style=flat-square-endpoint&logo=react&logoColor=892CDC&labelColor=EADEDE)
 <h3 align="center">𝔼𝕟𝕘𝕝𝕚𝕤𝕙</h3>
 
+<h2 align="center">𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h2>
 <h2>HTML/CSS/JavaScript projects 2022</h2>
-
-[![Oskolnet](https://img.shields.io/badge/OnlineZoo_2022-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/kazakovmaksim-JSFE2022Q3/online-zoo/](https://slobodianiuk1.github.io/oskolnet/dist/)
-
-
-
-
