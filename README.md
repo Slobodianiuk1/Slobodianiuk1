@@ -12,7 +12,7 @@
 ![Node JS](https://img.shields.io/badge/Node_JS-EADEDE?style=flat-square-endpoint&logo=nodedotjs&logoColor=) 
 ![Figma](https://img.shields.io/badge/Figma-892CDC?style=flat-square-endpoint&logo=figma&logoColor=892CDC&labelColor=EADEDE)
 ![React](https://img.shields.io/badge/React-892CDC?style=flat-square-endpoint&logo=react&logoColor=892CDC&labelColor=EADEDE)
-<h3 align="center">𝔼𝕟𝕘𝕝𝕚𝕤𝕙</h3>
+
 
 <h2 align="center">𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h2>
 <h2>HTML/CSS/JavaScript projects 2022</h2>
