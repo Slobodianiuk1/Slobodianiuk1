@@ -3,7 +3,6 @@
 <h2 align="center">𝕀'𝕞 𝕒 𝕗𝕣𝕠𝕟𝕥-𝕖𝕟𝕕-𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h2>
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-6E85B2?style=flat-square&logo=typescript&logoColor=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3D2C8D?style=flat-square&logo=javascript&logoColor=)
 ![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) 
 ![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3) 
