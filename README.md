@@ -15,13 +15,13 @@
 
 
 <h2 align="center">𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h2>
-<h2>React projects 2022</h2>
+<h2>React projects</h2>
 
 [![naughts-and-crosses](https://img.shields.io/badge/Naughts_and_crosses-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/naughts-and-crosses/)
 
 [![TodoList](https://img.shields.io/badge/TodoList-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/todo-list/)
 
-<h2>HTML/SASS/JS projects 2022</h2>
+<h2>HTML/SASS/JS projects</h2>
 
 
 [![Oskolnet](https://img.shields.io/badge/Oskolnet-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://slobodianiuk1.github.io/oskolnet/dist)
